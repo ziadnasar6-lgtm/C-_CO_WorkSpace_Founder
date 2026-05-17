@@ -6,7 +6,7 @@ A high-performance, interactive Workspace Management & Booking System built from
 
 ## 📺 System Preview (معاينة النظام)
 
-![System Preview](https://github.com/ziadnasar6-lgtm/C-_CO_WorkSpace_Founder/raw/master/Data/preview.gif)
+![System Preview](https://github.com/ziadnasar6-lgtm/C-_CO_WorkSpace_Founder/raw/master/fotos/viedo.gif)
 
 > 💡 **Tip for rendering the GIF:** Use an open-source tool like *ScreenToGif* to capture the console startup. Ensure it captures the dynamic Magenta header printing alongside the concurrent typewriter slogan loop (`- Where ideas meet...`) running on the right-hand panel.
 
