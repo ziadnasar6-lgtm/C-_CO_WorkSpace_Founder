@@ -1,10 +1,10 @@
 # C-_CO_WorkSpace_Founder
-![System Preview](fotos/viedo.gif)
 A high-performance, interactive Workspace Management & Booking System built from scratch in C++. This terminal-based application features a modern, animated CLI layout designed for professionals and founders to look up, evaluate, and book shared study and work environments seamlessly.
 
 ---
 
 ## 📺 System Preview (معاينة النظام)
+![System Preview](fotos/viedo.gif)
 
 ![System Preview](https://github.com/ziadnasar6-lgtm/C-_CO_WorkSpace_Founder/raw/master/fotos/viedo.gif)
 
