@@ -1,0 +1,360 @@
+151
+Focus Station
+Upper_Egypt
+Fayoum
+16 Main Street, Fayoum
+https://www.google.com/maps/search/?api=1&query=Focus+Station+Fayoum
+01548986149
+347.137512
+8.618451
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,startups
+152
+Vibe Studio
+Upper_Egypt
+Qena
+9 Main Street, Qena
+https://www.google.com/maps/search/?api=1&query=Vibe+Studio+Qena
+01273675388
+347.733948
+9.566721
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+premium,internet
+153
+Alpha Spot
+Upper_Egypt
+Assiut
+29 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Alpha+Spot+Assiut
+01371446567
+418.238190
+8.302878
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,premium,quiet,meetings,internet
+154
+Vibe Station
+Upper_Egypt
+Minya
+85 Main Street, Minya
+https://www.google.com/maps/search/?api=1&query=Vibe+Station+Minya
+01547748550
+65.325241
+7.290998
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,budget_friendly,shared_space,quiet
+155
+Omni Hub
+Upper_Egypt
+Qena
+78 Main Street, Qena
+https://www.google.com/maps/search/?api=1&query=Omni+Hub+Qena
+01160449999
+347.255768
+9.987292
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,premium,quiet,cafe
+156
+Mind Workspace
+Upper_Egypt
+Fayoum
+91 Main Street, Fayoum
+https://www.google.com/maps/search/?api=1&query=Mind+Workspace+Fayoum
+01010022172
+143.293076
+7.081355
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,cafe,private_office
+157
+Tech Zone
+Upper_Egypt
+Luxor
+24 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Tech+Zone+Luxor
+01108983249
+347.040100
+7.754636
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,meetings
+158
+Global Spot
+Upper_Egypt
+Luxor
+43 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Global+Spot+Luxor
+01219761864
+221.677429
+7.862706
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+quiet,internet,study,private_office
+159
+Zen Spot
+Upper_Egypt
+Qena
+92 Main Street, Qena
+https://www.google.com/maps/search/?api=1&query=Zen+Spot+Qena
+01457786142
+320.685150
+8.608616
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,private_office,internet,shared_space
+160
+Future Space
+Upper_Egypt
+Luxor
+33 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Future+Space+Luxor
+01562009054
+263.991425
+9.878434
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,startups,quiet
+161
+Urban Lab
+Upper_Egypt
+Luxor
+73 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Urban+Lab+Luxor
+01527881920
+307.635529
+8.413453
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+startups,shared_space
+162
+Smart Coworking
+Upper_Egypt
+Luxor
+75 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Smart+Coworking+Luxor
+01557002412
+330.849182
+9.536010
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+quiet,study,private_office
+163
+Tech Lab
+Upper_Egypt
+Assiut
+71 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Tech+Lab+Assiut
+01163945565
+253.286423
+9.543343
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,study,private_office,premium,cafe
+164
+Creative Station
+Upper_Egypt
+Beni Suef
+97 Main Street, Beni Suef
+https://www.google.com/maps/search/?api=1&query=Creative+Station+Beni+Suef
+01262939668
+81.625671
+8.003979
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+startups,internet
+165
+Nexus Lab
+Upper_Egypt
+Beni Suef
+11 Main Street, Beni Suef
+https://www.google.com/maps/search/?api=1&query=Nexus+Lab+Beni+Suef
+01395116949
+441.902130
+7.844750
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,budget_friendly
+166
+Tech Spot
+Upper_Egypt
+Assiut
+38 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Tech+Spot+Assiut
+01112264704
+281.910065
+8.700047
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,quiet
+167
+Pro Zone
+Upper_Egypt
+Sohag
+7 Main Street, Sohag
+https://www.google.com/maps/search/?api=1&query=Pro+Zone+Sohag
+01197733513
+435.639679
+8.538558
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+internet,startups,meetings,shared_space
+168
+Creative Lounge
+Upper_Egypt
+Fayoum
+10 Main Street, Fayoum
+https://www.google.com/maps/search/?api=1&query=Creative+Lounge+Fayoum
+01257056712
+92.207825
+9.112201
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+startups,study,quiet,private_office
+169
+Pro Coworking
+Upper_Egypt
+Beni Suef
+31 Main Street, Beni Suef
+https://www.google.com/maps/search/?api=1&query=Pro+Coworking+Beni+Suef
+01558329388
+120.861984
+9.149770
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+meetings,study,private_office
+170
+Elite Workspace
+Upper_Egypt
+Minya
+88 Main Street, Minya
+https://www.google.com/maps/search/?api=1&query=Elite+Workspace+Minya
+01473555421
+137.086807
+7.467720
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,study,internet
+171
+Nexus Zone
+Upper_Egypt
+Assiut
+44 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Nexus+Zone+Assiut
+01097945095
+305.957489
+7.823182
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,meetings,private_office,study
+172
+Pro Lab
+Upper_Egypt
+Luxor
+1 Main Street, Luxor
+https://www.google.com/maps/search/?api=1&query=Pro+Lab+Luxor
+01307135239
+261.837006
+9.811420
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,meetings,premium
+173
+Zen Zone
+Upper_Egypt
+Sohag
+87 Main Street, Sohag
+https://www.google.com/maps/search/?api=1&query=Zen+Zone+Sohag
+01458498834
+265.207306
+9.174156
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+private_office,premium,shared_space
+174
+Nexus Coworking
+Upper_Egypt
+Assiut
+30 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Nexus+Coworking+Assiut
+01158173724
+404.134247
+8.260323
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+premium,internet,startups
+175
+Zen Hub
+Upper_Egypt
+Assiut
+77 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Zen+Hub+Assiut
+01430137154
+210.902115
+8.046020
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space
+176
+Core Station
+Upper_Egypt
+Qena
+26 Main Street, Qena
+https://www.google.com/maps/search/?api=1&query=Core+Station+Qena
+01448394114
+121.180519
+8.983355
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+premium,private_office
+177
+Vibe Coworking
+Upper_Egypt
+Minya
+26 Main Street, Minya
+https://www.google.com/maps/search/?api=1&query=Vibe+Coworking+Minya
+01074949834
+222.718643
+7.034564
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,meetings,study,cafe,quiet
+178
+Creative Lounge
+Upper_Egypt
+Assiut
+56 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Creative+Lounge+Assiut
+01097835275
+168.460220
+8.891039
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+study,private_office
+179
+Mind Lab
+Upper_Egypt
+Assiut
+64 Main Street, Assiut
+https://www.google.com/maps/search/?api=1&query=Mind+Lab+Assiut
+01242698426
+119.081276
+7.700679
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+private_office,cafe,shared_space
+180
+Global Coworking
+Upper_Egypt
+Qena
+92 Main Street, Qena
+https://www.google.com/maps/search/?api=1&query=Global+Coworking+Qena
+01506440830
+317.357300
+8.630024
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+private_office,premium,quiet

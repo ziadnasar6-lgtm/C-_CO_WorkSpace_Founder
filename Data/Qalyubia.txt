@@ -1,0 +1,360 @@
+91
+Creative Hub
+Qalyubia
+Benha
+32 Main Street, Benha
+https://www.google.com/maps/search/?api=1&query=Creative+Hub+Benha
+01119512550
+205.661942
+9.299815
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,shared_space,premium,private_office
+92
+Smart Station
+Qalyubia
+Shibin El Qanater
+61 Main Street, Shibin El Qanater
+https://www.google.com/maps/search/?api=1&query=Smart+Station+Shibin+El+Qanater
+01152674662
+145.671402
+8.974752
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+internet,shared_space,private_office,premium
+93
+Zen Workspace
+Qalyubia
+Tukh
+16 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Zen+Workspace+Tukh
+01114428147
+178.364624
+9.078713
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+internet,quiet,study
+94
+Mind Workspace
+Qalyubia
+Shibin El Qanater
+5 Main Street, Shibin El Qanater
+https://www.google.com/maps/search/?api=1&query=Mind+Workspace+Shibin+El+Qanater
+01142592476
+153.590973
+8.368816
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,internet,cafe
+95
+Focus Spot
+Qalyubia
+Shibin El Qanater
+33 Main Street, Shibin El Qanater
+https://www.google.com/maps/search/?api=1&query=Focus+Spot+Shibin+El+Qanater
+01130159021
+304.998901
+7.077869
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+premium,startups
+96
+Omni Studio
+Qalyubia
+Shibin El Qanater
+94 Main Street, Shibin El Qanater
+https://www.google.com/maps/search/?api=1&query=Omni+Studio+Shibin+El+Qanater
+01057109967
+192.847916
+8.757861
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+meetings,startups
+97
+Elite Lounge
+Qalyubia
+Tukh
+80 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Elite+Lounge+Tukh
+01186569756
+183.722641
+8.559788
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,private_office,shared_space,cafe
+98
+Future Spot
+Qalyubia
+Qalyub
+59 Main Street, Qalyub
+https://www.google.com/maps/search/?api=1&query=Future+Spot+Qalyub
+01565880893
+330.648590
+8.420450
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+private_office,quiet,startups
+99
+Alpha Spot
+Qalyubia
+Tukh
+92 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Alpha+Spot+Tukh
+01235083021
+241.340149
+9.415297
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space
+100
+The Coworking
+Qalyubia
+Tukh
+10 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=The+Coworking+Tukh
+01321107556
+200.590805
+7.021632
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+budget_friendly,cafe,internet,shared_space,private_office
+101
+Nexus Zone
+Qalyubia
+Shubra El Kheima
+51 Main Street, Shubra El Kheima
+https://www.google.com/maps/search/?api=1&query=Nexus+Zone+Shubra+El+Kheima
+01263850311
+346.979370
+7.941921
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+meetings,budget_friendly,study,startups
+102
+Creative Space
+Qalyubia
+El Qanater
+64 Main Street, El Qanater
+https://www.google.com/maps/search/?api=1&query=Creative+Space+El+Qanater
+01459464281
+81.058662
+9.137428
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,budget_friendly,cafe,quiet,study
+103
+The Studio
+Qalyubia
+Shubra El Kheima
+9 Main Street, Shubra El Kheima
+https://www.google.com/maps/search/?api=1&query=The+Studio+Shubra+El+Kheima
+01283986589
+338.695648
+9.961194
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,internet
+104
+Future Zone
+Qalyubia
+Benha
+58 Main Street, Benha
+https://www.google.com/maps/search/?api=1&query=Future+Zone+Benha
+01292241462
+188.958832
+9.114039
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+shared_space,budget_friendly
+105
+Elite Zone
+Qalyubia
+Tukh
+25 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Elite+Zone+Tukh
+01071284239
+240.804733
+8.213152
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+quiet,shared_space,startups,meetings,study
+106
+Urban Lounge
+Qalyubia
+Obour City
+74 Main Street, Obour City
+https://www.google.com/maps/search/?api=1&query=Urban+Lounge+Obour+City
+01041059718
+230.919220
+8.257291
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+shared_space,startups
+107
+Vibe Coworking
+Qalyubia
+Tukh
+88 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Vibe+Coworking+Tukh
+01435456829
+112.006760
+8.767847
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+startups,budget_friendly
+108
+Alpha Workspace
+Qalyubia
+Obour City
+97 Main Street, Obour City
+https://www.google.com/maps/search/?api=1&query=Alpha+Workspace+Obour+City
+01207617825
+365.897339
+8.714275
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+private_office,shared_space,internet
+109
+The Studio
+Qalyubia
+Benha
+67 Main Street, Benha
+https://www.google.com/maps/search/?api=1&query=The+Studio+Benha
+01069795462
+393.533661
+7.642220
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,shared_space
+110
+Focus Station
+Qalyubia
+Shubra El Kheima
+37 Main Street, Shubra El Kheima
+https://www.google.com/maps/search/?api=1&query=Focus+Station+Shubra+El+Kheima
+01275958721
+197.784271
+8.741805
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+internet,private_office
+111
+Nexus Coworking
+Qalyubia
+El Qanater
+58 Main Street, El Qanater
+https://www.google.com/maps/search/?api=1&query=Nexus+Coworking+El+Qanater
+01139162674
+403.831116
+9.935508
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,startups,shared_space
+112
+Nexus Zone
+Qalyubia
+Benha
+46 Main Street, Benha
+https://www.google.com/maps/search/?api=1&query=Nexus+Zone+Benha
+01552893485
+397.847565
+8.663801
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+private_office,shared_space
+113
+Global Studio
+Qalyubia
+El Qanater
+40 Main Street, El Qanater
+https://www.google.com/maps/search/?api=1&query=Global+Studio+El+Qanater
+01267052881
+272.370880
+7.302734
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,quiet,private_office,study,premium
+114
+Tech Lounge
+Qalyubia
+Tukh
+86 Main Street, Tukh
+https://www.google.com/maps/search/?api=1&query=Tech+Lounge+Tukh
+01133480100
+112.217529
+9.128304
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,budget_friendly,cafe,private_office
+115
+Elite Lounge
+Qalyubia
+Shubra El Kheima
+1 Main Street, Shubra El Kheima
+https://www.google.com/maps/search/?api=1&query=Elite+Lounge+Shubra+El+Kheima
+01170858860
+286.813080
+7.032561
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+internet,shared_space
+116
+Urban Lab
+Qalyubia
+Obour City
+72 Main Street, Obour City
+https://www.google.com/maps/search/?api=1&query=Urban+Lab+Obour+City
+01174614967
+284.291656
+8.711664
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,meetings,cafe,study,quiet
+117
+Nexus Space
+Qalyubia
+El Qanater
+27 Main Street, El Qanater
+https://www.google.com/maps/search/?api=1&query=Nexus+Space+El+Qanater
+01175161440
+191.120605
+9.206701
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+quiet,study
+118
+Omni Zone
+Qalyubia
+Shibin El Qanater
+18 Main Street, Shibin El Qanater
+https://www.google.com/maps/search/?api=1&query=Omni+Zone+Shibin+El+Qanater
+01413369064
+206.495895
+7.039619
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+startups,private_office,shared_space,premium,budget_friendly
+119
+Urban Lounge
+Qalyubia
+Obour City
+87 Main Street, Obour City
+https://www.google.com/maps/search/?api=1&query=Urban+Lounge+Obour+City
+01369352373
+308.059113
+8.574743
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+premium,internet,cafe,study
+120
+Vibe Lounge
+Qalyubia
+El Qanater
+67 Main Street, El Qanater
+https://www.google.com/maps/search/?api=1&query=Vibe+Lounge+El+Qanater
+01145492211
+110.615707
+7.282344
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+startups,budget_friendly,study

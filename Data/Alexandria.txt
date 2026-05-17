@@ -1,0 +1,360 @@
+31
+The Lounge
+Alexandria
+Miami
+39 Main Street, Miami
+https://www.google.com/maps/search/?api=1&query=The+Lounge+Miami
+01302758926
+168.680359
+7.020067
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+internet,startups
+32
+Omni Studio
+Alexandria
+Stanley
+95 Main Street, Stanley
+https://www.google.com/maps/search/?api=1&query=Omni+Studio+Stanley
+01119516464
+309.334808
+7.026142
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,internet,private_office,quiet
+33
+Tech Spot
+Alexandria
+Louran
+1 Main Street, Louran
+https://www.google.com/maps/search/?api=1&query=Tech+Spot+Louran
+01149196276
+301.523529
+9.444583
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+study,private_office
+34
+Creative Space
+Alexandria
+Smouha
+86 Main Street, Smouha
+https://www.google.com/maps/search/?api=1&query=Creative+Space+Smouha
+01532467823
+67.387154
+7.961054
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,cafe
+35
+Elite Space
+Alexandria
+Louran
+56 Main Street, Louran
+https://www.google.com/maps/search/?api=1&query=Elite+Space+Louran
+01344852252
+65.746574
+9.860671
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,quiet,budget_friendly,startups,study
+36
+Global Station
+Alexandria
+Sporting
+74 Main Street, Sporting
+https://www.google.com/maps/search/?api=1&query=Global+Station+Sporting
+01307459326
+144.080109
+8.778420
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,cafe,shared_space,meetings
+37
+Tech Station
+Alexandria
+Downtown
+80 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Tech+Station+Downtown
+01584535798
+327.969879
+9.191713
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,internet
+38
+Vibe Lounge
+Alexandria
+Miami
+29 Main Street, Miami
+https://www.google.com/maps/search/?api=1&query=Vibe+Lounge+Miami
+01267511804
+106.241585
+9.510836
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+quiet,startups,internet,private_office
+39
+The Studio
+Alexandria
+Downtown
+48 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=The+Studio+Downtown
+01327215350
+249.521820
+9.220934
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,startups,study
+40
+Omni Spot
+Alexandria
+Louran
+84 Main Street, Louran
+https://www.google.com/maps/search/?api=1&query=Omni+Spot+Louran
+01570199953
+410.255096
+7.286814
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+meetings,study,startups
+41
+Vibe Zone
+Alexandria
+Kafr Abdo
+7 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Vibe+Zone+Kafr+Abdo
+01263344726
+319.364899
+7.240272
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+quiet,budget_friendly,premium,private_office
+42
+Focus Workspace
+Alexandria
+Louran
+50 Main Street, Louran
+https://www.google.com/maps/search/?api=1&query=Focus+Workspace+Louran
+01581266950
+331.255920
+7.993872
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,quiet,premium
+43
+Smart Coworking
+Alexandria
+Miami
+82 Main Street, Miami
+https://www.google.com/maps/search/?api=1&query=Smart+Coworking+Miami
+01372637233
+136.232666
+8.838002
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+quiet,budget_friendly,cafe
+44
+Elite Hub
+Alexandria
+Kafr Abdo
+19 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Elite+Hub+Kafr+Abdo
+01363883994
+145.932953
+9.619553
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+startups,premium,shared_space
+45
+Global Station
+Alexandria
+Downtown
+8 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Global+Station+Downtown
+01156251361
+367.801971
+8.530627
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,budget_friendly,startups,meetings,study
+46
+Future Coworking
+Alexandria
+Kafr Abdo
+44 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Future+Coworking+Kafr+Abdo
+01050650287
+69.100739
+8.538929
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,startups,study,cafe
+47
+Global Workspace
+Alexandria
+Louran
+50 Main Street, Louran
+https://www.google.com/maps/search/?api=1&query=Global+Workspace+Louran
+01020454807
+225.350403
+8.191134
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+budget_friendly,cafe,meetings,private_office
+48
+Zen Coworking
+Alexandria
+Sporting
+84 Main Street, Sporting
+https://www.google.com/maps/search/?api=1&query=Zen+Coworking+Sporting
+01483761604
+238.153946
+8.447743
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,shared_space
+49
+Tech Studio
+Alexandria
+Stanley
+47 Main Street, Stanley
+https://www.google.com/maps/search/?api=1&query=Tech+Studio+Stanley
+01551967233
+418.137573
+8.525378
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,shared_space,budget_friendly,premium
+50
+Mind Lounge
+Alexandria
+Kafr Abdo
+63 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Mind+Lounge+Kafr+Abdo
+01048859943
+386.395020
+8.793684
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+meetings,premium,study,quiet
+51
+Core Studio
+Alexandria
+Gleem
+32 Main Street, Gleem
+https://www.google.com/maps/search/?api=1&query=Core+Studio+Gleem
+01583615189
+53.743805
+7.333596
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+meetings,shared_space
+52
+Global Zone
+Alexandria
+Downtown
+65 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Global+Zone+Downtown
+01481301682
+168.045059
+7.398587
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+quiet,private_office,study,internet,shared_space
+53
+Omni Spot
+Alexandria
+Kafr Abdo
+1 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Omni+Spot+Kafr+Abdo
+01537138979
+331.197632
+9.614400
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,startups,quiet,internet,meetings
+54
+Core Coworking
+Alexandria
+Stanley
+55 Main Street, Stanley
+https://www.google.com/maps/search/?api=1&query=Core+Coworking+Stanley
+01333043752
+329.572906
+8.617956
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+internet,startups,budget_friendly
+55
+The Zone
+Alexandria
+Smouha
+8 Main Street, Smouha
+https://www.google.com/maps/search/?api=1&query=The+Zone+Smouha
+01110524060
+288.099884
+8.321370
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+study,startups,shared_space,quiet,cafe
+56
+Global Coworking
+Alexandria
+Kafr Abdo
+8 Main Street, Kafr Abdo
+https://www.google.com/maps/search/?api=1&query=Global+Coworking+Kafr+Abdo
+01144788668
+403.351379
+7.463588
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+shared_space,budget_friendly,private_office,quiet
+57
+Smart Space
+Alexandria
+Downtown
+52 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Smart+Space+Downtown
+01359251433
+284.213684
+8.716144
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+internet,study,premium,budget_friendly,private_office
+58
+Vibe Zone
+Alexandria
+Downtown
+10 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Vibe+Zone+Downtown
+01345330569
+416.176056
+8.317133
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+premium,internet,shared_space,meetings
+59
+Pro Zone
+Alexandria
+Gleem
+45 Main Street, Gleem
+https://www.google.com/maps/search/?api=1&query=Pro+Zone+Gleem
+01482900480
+122.461617
+8.168983
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+study,startups,meetings,quiet,budget_friendly
+60
+Smart Studio
+Alexandria
+Miami
+7 Main Street, Miami
+https://www.google.com/maps/search/?api=1&query=Smart+Studio+Miami
+01572035486
+204.575012
+9.952962
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+startups,private_office

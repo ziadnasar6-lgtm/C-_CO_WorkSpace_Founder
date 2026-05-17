@@ -1,0 +1,360 @@
+61
+Focus Workspace
+Mansoura
+El Mashaya
+22 Main Street, El Mashaya
+https://www.google.com/maps/search/?api=1&query=Focus+Workspace+El+Mashaya
+01104882140
+386.398163
+8.154774
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+internet,private_office,budget_friendly
+62
+Global Workspace
+Mansoura
+Touriel
+10 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Global+Workspace+Touriel
+01476578114
+371.773346
+7.217702
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+meetings,startups,shared_space,premium,internet
+63
+Smart Hub
+Mansoura
+Talkha
+31 Main Street, Talkha
+https://www.google.com/maps/search/?api=1&query=Smart+Hub+Talkha
+01418067646
+361.268585
+8.615456
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+startups,internet,shared_space
+64
+Vibe Lounge
+Mansoura
+Gedo St.
+50 Main Street, Gedo St.
+https://www.google.com/maps/search/?api=1&query=Vibe+Lounge+Gedo+St.
+01269432291
+418.235504
+7.167784
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+internet,study,budget_friendly,quiet,meetings
+65
+Global Zone
+Mansoura
+Talkha
+8 Main Street, Talkha
+https://www.google.com/maps/search/?api=1&query=Global+Zone+Talkha
+01140226562
+151.676895
+8.646393
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+study,cafe,budget_friendly
+66
+Tech Station
+Mansoura
+Touriel
+37 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Tech+Station+Touriel
+01388197056
+443.577484
+9.303587
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+quiet,shared_space,meetings,budget_friendly,startups
+67
+Omni Zone
+Mansoura
+Nadi El Gezira
+87 Main Street, Nadi El Gezira
+https://www.google.com/maps/search/?api=1&query=Omni+Zone+Nadi+El+Gezira
+01479800569
+287.089478
+8.494815
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+internet,shared_space
+68
+Alpha Zone
+Mansoura
+Touriel
+19 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Alpha+Zone+Touriel
+01571877262
+284.403839
+7.514880
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+private_office,quiet,study
+69
+Urban Spot
+Mansoura
+Gehan St.
+43 Main Street, Gehan St.
+https://www.google.com/maps/search/?api=1&query=Urban+Spot+Gehan+St.
+01563503399
+436.606171
+8.252641
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,internet,budget_friendly
+70
+Nexus Hub
+Mansoura
+Gedo St.
+2 Main Street, Gedo St.
+https://www.google.com/maps/search/?api=1&query=Nexus+Hub+Gedo+St.
+01166020257
+352.415619
+9.752492
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+meetings,premium,private_office
+71
+Tech Workspace
+Mansoura
+Talkha
+55 Main Street, Talkha
+https://www.google.com/maps/search/?api=1&query=Tech+Workspace+Talkha
+01547451707
+282.796875
+9.662443
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,budget_friendly
+72
+Pro Workspace
+Mansoura
+Nadi El Gezira
+21 Main Street, Nadi El Gezira
+https://www.google.com/maps/search/?api=1&query=Pro+Workspace+Nadi+El+Gezira
+01313458770
+379.171112
+9.519380
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,budget_friendly,cafe
+73
+Tech Studio
+Mansoura
+Hay El-Gamaa
+76 Main Street, Hay El-Gamaa
+https://www.google.com/maps/search/?api=1&query=Tech+Studio+Hay+El-Gamaa
+01146515825
+169.662994
+7.867445
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,study,private_office
+74
+Tech Lounge
+Mansoura
+Touriel
+39 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Tech+Lounge+Touriel
+01462017108
+87.196159
+7.908109
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,cafe,study
+75
+Global Coworking
+Mansoura
+El Mashaya
+78 Main Street, El Mashaya
+https://www.google.com/maps/search/?api=1&query=Global+Coworking+El+Mashaya
+01531393145
+250.712662
+7.713309
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,cafe,premium,meetings
+76
+Mind Lounge
+Mansoura
+Gehan St.
+31 Main Street, Gehan St.
+https://www.google.com/maps/search/?api=1&query=Mind+Lounge+Gehan+St.
+01462315528
+240.324417
+9.127626
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+shared_space,meetings
+77
+Pro Station
+Mansoura
+Gehan St.
+69 Main Street, Gehan St.
+https://www.google.com/maps/search/?api=1&query=Pro+Station+Gehan+St.
+01020599229
+376.276337
+7.522209
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,internet,meetings,study
+78
+Elite Lounge
+Mansoura
+Talkha
+50 Main Street, Talkha
+https://www.google.com/maps/search/?api=1&query=Elite+Lounge+Talkha
+01067039540
+171.894104
+7.253866
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,shared_space,cafe,study,premium
+79
+The Spot
+Mansoura
+Touriel
+57 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=The+Spot+Touriel
+01141296334
+168.000305
+9.947624
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+quiet,premium,study,private_office
+80
+The Zone
+Mansoura
+Touriel
+53 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=The+Zone+Touriel
+01436935213
+165.470703
+9.353020
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+study,startups,cafe
+81
+Urban Coworking
+Mansoura
+Touriel
+78 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Urban+Coworking+Touriel
+01385627185
+288.252991
+9.089904
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+quiet,premium
+82
+Omni Coworking
+Mansoura
+Nadi El Gezira
+57 Main Street, Nadi El Gezira
+https://www.google.com/maps/search/?api=1&query=Omni+Coworking+Nadi+El+Gezira
+01391745677
+108.862442
+8.113290
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,budget_friendly,startups,premium,shared_space
+83
+Alpha Station
+Mansoura
+Gehan St.
+39 Main Street, Gehan St.
+https://www.google.com/maps/search/?api=1&query=Alpha+Station+Gehan+St.
+01450967230
+316.518127
+9.357073
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+quiet,internet,premium,study
+84
+Focus Coworking
+Mansoura
+Hay El-Gamaa
+11 Main Street, Hay El-Gamaa
+https://www.google.com/maps/search/?api=1&query=Focus+Coworking+Hay+El-Gamaa
+01278320328
+241.918243
+8.819246
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,budget_friendly
+85
+Future Hub
+Mansoura
+Nadi El Gezira
+42 Main Street, Nadi El Gezira
+https://www.google.com/maps/search/?api=1&query=Future+Hub+Nadi+El+Gezira
+01060621155
+154.157394
+8.536083
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,cafe,startups,budget_friendly,premium
+86
+Future Coworking
+Mansoura
+Hay El-Gamaa
+26 Main Street, Hay El-Gamaa
+https://www.google.com/maps/search/?api=1&query=Future+Coworking+Hay+El-Gamaa
+01582401990
+378.166870
+8.393504
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,shared_space,quiet,private_office
+87
+Future Hub
+Mansoura
+Nadi El Gezira
+28 Main Street, Nadi El Gezira
+https://www.google.com/maps/search/?api=1&query=Future+Hub+Nadi+El+Gezira
+01375591742
+222.876358
+8.248885
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,internet,premium,private_office,quiet
+88
+Global Spot
+Mansoura
+Touriel
+93 Main Street, Touriel
+https://www.google.com/maps/search/?api=1&query=Global+Spot+Touriel
+01218337438
+178.938049
+8.914706
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+budget_friendly,study,cafe,internet
+89
+Future Studio
+Mansoura
+Gedo St.
+77 Main Street, Gedo St.
+https://www.google.com/maps/search/?api=1&query=Future+Studio+Gedo+St.
+01489105173
+386.809998
+7.383312
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+quiet,startups
+90
+Alpha Hub
+Mansoura
+Gedo St.
+37 Main Street, Gedo St.
+https://www.google.com/maps/search/?api=1&query=Alpha+Hub+Gedo+St.
+01128028566
+427.026001
+9.702236
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+shared_space,cafe
