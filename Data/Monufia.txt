@@ -1,0 +1,360 @@
+121
+The Workspace
+Monufia
+Ashmoun
+20 Main Street, Ashmoun
+https://www.google.com/maps/search/?api=1&query=The+Workspace+Ashmoun
+01371600695
+66.703369
+8.504744
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,private_office,meetings
+122
+Zen Lounge
+Monufia
+Quesna
+85 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Zen+Lounge+Quesna
+01169281109
+111.020943
+8.186186
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+private_office,budget_friendly,cafe
+123
+Tech Workspace
+Monufia
+Quesna
+45 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Tech+Workspace+Quesna
+01588085875
+271.542480
+7.434900
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+private_office,internet,cafe,startups
+124
+Omni Station
+Monufia
+Quesna
+16 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Omni+Station+Quesna
+01583354380
+403.266327
+7.364916
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+premium,meetings,quiet
+125
+Elite Studio
+Monufia
+Tanta
+39 Main Street, Tanta
+https://www.google.com/maps/search/?api=1&query=Elite+Studio+Tanta
+01211376722
+359.772003
+9.866164
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+premium,quiet,study
+126
+Tech Workspace
+Monufia
+Shibin El Kom
+84 Main Street, Shibin El Kom
+https://www.google.com/maps/search/?api=1&query=Tech+Workspace+Shibin+El+Kom
+01205447774
+89.776199
+7.139385
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+shared_space,premium,internet,private_office
+127
+Zen Lab
+Monufia
+Ashmoun
+44 Main Street, Ashmoun
+https://www.google.com/maps/search/?api=1&query=Zen+Lab+Ashmoun
+01578632263
+352.332092
+7.232402
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+premium,quiet
+128
+Nexus Workspace
+Monufia
+Ashmoun
+64 Main Street, Ashmoun
+https://www.google.com/maps/search/?api=1&query=Nexus+Workspace+Ashmoun
+01395932640
+86.042656
+9.781166
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+private_office,study
+129
+Vibe Space
+Monufia
+Tala
+76 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Vibe+Space+Tala
+01523802402
+81.811508
+7.118753
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+premium,private_office,startups
+130
+Focus Coworking
+Monufia
+Shibin El Kom
+23 Main Street, Shibin El Kom
+https://www.google.com/maps/search/?api=1&query=Focus+Coworking+Shibin+El+Kom
+01001113764
+232.691559
+9.744750
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+startups,internet,study
+131
+Global Space
+Monufia
+Quesna
+88 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Global+Space+Quesna
+01257876430
+409.501434
+8.451209
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space,startups
+132
+Core Space
+Monufia
+Tanta
+19 Main Street, Tanta
+https://www.google.com/maps/search/?api=1&query=Core+Space+Tanta
+01597513332
+183.442062
+7.772211
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+premium,budget_friendly,meetings,shared_space,quiet
+133
+Creative Studio
+Monufia
+Quesna
+3 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Creative+Studio+Quesna
+01210081444
+241.974167
+9.692900
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+meetings,internet,quiet,budget_friendly,startups
+134
+Pro Lab
+Monufia
+Menouf
+62 Main Street, Menouf
+https://www.google.com/maps/search/?api=1&query=Pro+Lab+Menouf
+01263908770
+213.749878
+9.719864
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+budget_friendly,internet,shared_space,cafe,study
+135
+The Space
+Monufia
+Tala
+9 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=The+Space+Tala
+01009698563
+282.733215
+9.396569
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+premium,meetings,budget_friendly,cafe,startups
+136
+Omni Hub
+Monufia
+Menouf
+51 Main Street, Menouf
+https://www.google.com/maps/search/?api=1&query=Omni+Hub+Menouf
+01474451695
+81.772682
+7.447077
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+shared_space,private_office,quiet,cafe,budget_friendly
+137
+The Zone
+Monufia
+Tanta
+6 Main Street, Tanta
+https://www.google.com/maps/search/?api=1&query=The+Zone+Tanta
+01598971137
+84.305641
+9.759669
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+private_office,study,meetings
+138
+Core Coworking
+Monufia
+Tala
+62 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Core+Coworking+Tala
+01395189971
+393.408051
+8.706466
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,cafe,startups,internet
+139
+Global Space
+Monufia
+Shibin El Kom
+8 Main Street, Shibin El Kom
+https://www.google.com/maps/search/?api=1&query=Global+Space+Shibin+El+Kom
+01445573769
+367.416687
+7.959827
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,budget_friendly,startups,study
+140
+Alpha Workspace
+Monufia
+Menouf
+8 Main Street, Menouf
+https://www.google.com/maps/search/?api=1&query=Alpha+Workspace+Menouf
+01440050602
+189.659927
+9.466689
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+internet,startups,quiet,shared_space
+141
+Creative Station
+Monufia
+Menouf
+80 Main Street, Menouf
+https://www.google.com/maps/search/?api=1&query=Creative+Station+Menouf
+01567662480
+384.077515
+7.458511
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+quiet,shared_space,private_office,cafe,budget_friendly
+142
+Pro Space
+Monufia
+Quesna
+92 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Pro+Space+Quesna
+01216200448
+152.183487
+7.425256
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+private_office,premium,internet
+143
+Zen Station
+Monufia
+Tala
+50 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Zen+Station+Tala
+01527271443
+71.627266
+7.320354
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+shared_space,meetings,budget_friendly
+144
+Tech Coworking
+Monufia
+Tala
+6 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Tech+Coworking+Tala
+01404155253
+132.811020
+9.822497
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+premium,startups,internet
+145
+Vibe Coworking
+Monufia
+Sadat City
+65 Main Street, Sadat City
+https://www.google.com/maps/search/?api=1&query=Vibe+Coworking+Sadat+City
+01310472027
+307.037201
+9.621617
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,internet,meetings,budget_friendly,startups
+146
+Focus Lounge
+Monufia
+Tala
+67 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Focus+Lounge+Tala
+01389286957
+434.755829
+7.441742
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,budget_friendly
+147
+Global Lounge
+Monufia
+Tala
+20 Main Street, Tala
+https://www.google.com/maps/search/?api=1&query=Global+Lounge+Tala
+01067568982
+263.941071
+8.077538
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+meetings,shared_space,private_office
+148
+Pro Station
+Monufia
+Quesna
+44 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Pro+Station+Quesna
+01441161958
+190.189713
+9.497127
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,quiet,premium
+149
+Future Station
+Monufia
+Ashmoun
+16 Main Street, Ashmoun
+https://www.google.com/maps/search/?api=1&query=Future+Station+Ashmoun
+01563290076
+407.226501
+8.255774
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+startups,shared_space,study,private_office,quiet
+150
+Mind Space
+Monufia
+Quesna
+8 Main Street, Quesna
+https://www.google.com/maps/search/?api=1&query=Mind+Space+Quesna
+01045333043
+361.276398
+9.316865
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+shared_space,private_office,premium,budget_friendly

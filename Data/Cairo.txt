@@ -1,0 +1,360 @@
+1
+Nexus Lounge
+Cairo
+Maadi
+91 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Nexus+Lounge+Maadi
+01185991635
+365.397217
+7.222302
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,study,startups
+2
+Pro Workspace
+Cairo
+Sheikh Zayed
+96 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Pro+Workspace+Sheikh+Zayed
+01174303048
+163.167862
+9.760715
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+private_office,study,startups,budget_friendly,premium
+3
+Core Workspace
+Cairo
+Maadi
+45 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Core+Workspace+Maadi
+01298479873
+318.571289
+8.816571
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+quiet,premium
+4
+Alpha Zone
+Cairo
+Downtown
+15 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Alpha+Zone+Downtown
+01234304656
+351.990448
+8.385391
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,premium,study,cafe,internet
+5
+Smart Space
+Cairo
+New Cairo
+83 Main Street, New Cairo
+https://www.google.com/maps/search/?api=1&query=Smart+Space+New+Cairo
+01333170415
+345.718140
+7.375412
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+internet,premium
+6
+Smart Station
+Cairo
+Maadi
+21 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Smart+Station+Maadi
+01133488937
+176.736908
+8.498808
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space
+7
+Focus Studio
+Cairo
+New Cairo
+88 Main Street, New Cairo
+https://www.google.com/maps/search/?api=1&query=Focus+Studio+New+Cairo
+01333997511
+189.946777
+9.282888
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+shared_space,budget_friendly,cafe,private_office
+8
+Pro Studio
+Cairo
+New Cairo
+95 Main Street, New Cairo
+https://www.google.com/maps/search/?api=1&query=Pro+Studio+New+Cairo
+01224341075
+332.363098
+8.442667
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+meetings,quiet,private_office
+9
+Smart Spot
+Cairo
+Sheikh Zayed
+21 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Smart+Spot+Sheikh+Zayed
+01588393102
+60.338184
+8.365725
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+quiet,budget_friendly
+10
+Vibe Lab
+Cairo
+Dokki
+91 Main Street, Dokki
+https://www.google.com/maps/search/?api=1&query=Vibe+Lab+Dokki
+01170805306
+127.786804
+8.251960
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+startups,budget_friendly,shared_space
+11
+Future Lab
+Cairo
+Maadi
+17 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Future+Lab+Maadi
+01386742930
+212.930130
+8.639091
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,cafe,premium
+12
+Alpha Space
+Cairo
+Zamalek
+45 Main Street, Zamalek
+https://www.google.com/maps/search/?api=1&query=Alpha+Space+Zamalek
+01215730051
+138.482941
+9.590303
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,study,budget_friendly,cafe,meetings
+13
+Nexus Spot
+Cairo
+Heliopolis
+51 Main Street, Heliopolis
+https://www.google.com/maps/search/?api=1&query=Nexus+Spot+Heliopolis
+01128307375
+69.225792
+7.227778
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+meetings,internet,budget_friendly
+14
+Focus Zone
+Cairo
+Sheikh Zayed
+5 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Focus+Zone+Sheikh+Zayed
+01503773111
+445.752686
+8.083103
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,meetings,cafe
+15
+Smart Workspace
+Cairo
+Nasr City
+33 Main Street, Nasr City
+https://www.google.com/maps/search/?api=1&query=Smart+Workspace+Nasr+City
+01337847646
+344.694580
+9.465817
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+internet,cafe
+16
+Creative Space
+Cairo
+Downtown
+94 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Creative+Space+Downtown
+01266962945
+361.434784
+8.295894
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,quiet,premium
+17
+Focus Zone
+Cairo
+Maadi
+93 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Focus+Zone+Maadi
+01233592335
+125.343430
+9.428315
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+internet,budget_friendly
+18
+Tech Studio
+Cairo
+Maadi
+94 Main Street, Maadi
+https://www.google.com/maps/search/?api=1&query=Tech+Studio+Maadi
+01143370437
+56.643227
+7.633026
+Affordable setting designed specifically for students.
+High speed internet, comfortable chairs, air conditioning
+study,meetings,premium
+19
+Omni Coworking
+Cairo
+Nasr City
+54 Main Street, Nasr City
+https://www.google.com/maps/search/?api=1&query=Omni+Coworking+Nasr+City
+01258082933
+325.018707
+9.724769
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+meetings,quiet,premium,private_office
+20
+Global Station
+Cairo
+Nasr City
+3 Main Street, Nasr City
+https://www.google.com/maps/search/?api=1&query=Global+Station+Nasr+City
+01455278059
+410.674103
+7.790083
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+private_office,meetings,internet
+21
+Zen Lab
+Cairo
+Sheikh Zayed
+66 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Zen+Lab+Sheikh+Zayed
+01537684531
+222.329132
+8.032227
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+study,meetings,quiet,cafe
+22
+Mind Spot
+Cairo
+Downtown
+67 Main Street, Downtown
+https://www.google.com/maps/search/?api=1&query=Mind+Spot+Downtown
+01217112086
+391.238098
+7.346571
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,internet
+23
+Core Space
+Cairo
+Nasr City
+64 Main Street, Nasr City
+https://www.google.com/maps/search/?api=1&query=Core+Space+Nasr+City
+01302326025
+354.500977
+8.975151
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+startups,quiet
+24
+Focus Zone
+Cairo
+Zamalek
+58 Main Street, Zamalek
+https://www.google.com/maps/search/?api=1&query=Focus+Zone+Zamalek
+01224447857
+199.332352
+8.534717
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+meetings,private_office,budget_friendly
+25
+Pro Zone
+Cairo
+Nasr City
+57 Main Street, Nasr City
+https://www.google.com/maps/search/?api=1&query=Pro+Zone+Nasr+City
+01210479854
+446.689362
+9.730513
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+internet,quiet,premium,shared_space
+26
+Alpha Lab
+Cairo
+Sheikh Zayed
+36 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Alpha+Lab+Sheikh+Zayed
+01107631755
+336.304871
+7.991149
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+private_office,startups,internet
+27
+Global Coworking
+Cairo
+Heliopolis
+1 Main Street, Heliopolis
+https://www.google.com/maps/search/?api=1&query=Global+Coworking+Heliopolis
+01198021013
+217.131760
+7.911456
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+quiet,startups,budget_friendly,shared_space
+28
+Creative Hub
+Cairo
+Heliopolis
+4 Main Street, Heliopolis
+https://www.google.com/maps/search/?api=1&query=Creative+Hub+Heliopolis
+01019104185
+401.345978
+7.055171
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+quiet,private_office
+29
+Focus Lounge
+Cairo
+Zamalek
+73 Main Street, Zamalek
+https://www.google.com/maps/search/?api=1&query=Focus+Lounge+Zamalek
+01169228543
+177.863251
+7.860511
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+meetings,quiet,internet
+30
+Future Coworking
+Cairo
+Sheikh Zayed
+8 Main Street, Sheikh Zayed
+https://www.google.com/maps/search/?api=1&query=Future+Coworking+Sheikh+Zayed
+01430003821
+413.882141
+7.386174
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space

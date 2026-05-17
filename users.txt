@@ -1,0 +1,12 @@
+Admin System|admin@study.eg|123456|RECOV-AD123|1000|1
+Ziad Nassar|ziad@study.eg|pass123|RECOV-ZI99|100|0
+Ziad Nassar|ziad11@gmail.com|1122|RECOV-zia|50|0
+ziad nassar|ziad11@gmail.com|1122|RECOV-zia|50|0
+Mohamed F|mo1@gmail.com|1122|RECOV-mo1|100|0
+mohammed|idk@gmail.com|1234|RECOV-idk|100|0
+zoz|zoz@gmail.com|zoz|RECOV-zoz|100|0
+ziad |ziad11:gmail.com|1122|RECOV-zia|100|0
+|ziad|ziad11@gmail.com|RECOV-zia|100|0
+ziad nassar|ziad111@gmail.com|1122|RECOV-zia|100|0
+ahmed sakr|aa@gmail.com|1122|RECOV-aa@|100|0
+lail |lail@gmail.com|1122|RECOV-lai|100|0

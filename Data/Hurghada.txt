@@ -1,0 +1,360 @@
+181
+Zen Studio
+Hurghada
+Makadi Bay
+78 Main Street, Makadi Bay
+https://www.google.com/maps/search/?api=1&query=Zen+Studio+Makadi+Bay
+01394677795
+197.681366
+7.963714
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+premium,internet,cafe,shared_space
+182
+Core Hub
+Hurghada
+Sahl Hasheesh
+87 Main Street, Sahl Hasheesh
+https://www.google.com/maps/search/?api=1&query=Core+Hub+Sahl+Hasheesh
+01210755815
+434.575989
+9.073626
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space,private_office
+183
+Future Zone
+Hurghada
+El Dahar
+5 Main Street, El Dahar
+https://www.google.com/maps/search/?api=1&query=Future+Zone+El+Dahar
+01032276599
+306.915009
+9.916499
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,premium,cafe,quiet,private_office
+184
+Urban Hub
+Hurghada
+Sakkala
+72 Main Street, Sakkala
+https://www.google.com/maps/search/?api=1&query=Urban+Hub+Sakkala
+01230794658
+83.353638
+8.671550
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+premium,study
+185
+Elite Hub
+Hurghada
+Mamsha
+5 Main Street, Mamsha
+https://www.google.com/maps/search/?api=1&query=Elite+Hub+Mamsha
+01501280958
+331.199554
+8.116583
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+shared_space,quiet
+186
+Creative Hub
+Hurghada
+Sahl Hasheesh
+58 Main Street, Sahl Hasheesh
+https://www.google.com/maps/search/?api=1&query=Creative+Hub+Sahl+Hasheesh
+01316215096
+80.276970
+8.659904
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,private_office,study,meetings,premium
+187
+Nexus Spot
+Hurghada
+El Dahar
+83 Main Street, El Dahar
+https://www.google.com/maps/search/?api=1&query=Nexus+Spot+El+Dahar
+01485342470
+423.409485
+8.630775
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+premium,internet,private_office,meetings,shared_space
+188
+The Zone
+Hurghada
+Mamsha
+80 Main Street, Mamsha
+https://www.google.com/maps/search/?api=1&query=The+Zone+Mamsha
+01246585858
+434.027069
+9.702362
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,study,quiet,private_office,budget_friendly
+189
+Nexus Station
+Hurghada
+Makadi Bay
+89 Main Street, Makadi Bay
+https://www.google.com/maps/search/?api=1&query=Nexus+Station+Makadi+Bay
+01182531666
+330.013458
+7.263712
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+premium,study,meetings,shared_space,cafe
+190
+Mind Hub
+Hurghada
+El Gouna
+35 Main Street, El Gouna
+https://www.google.com/maps/search/?api=1&query=Mind+Hub+El+Gouna
+01008425557
+69.692612
+8.640960
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,private_office,shared_space,study,startups
+191
+Core Coworking
+Hurghada
+Safaga
+28 Main Street, Safaga
+https://www.google.com/maps/search/?api=1&query=Core+Coworking+Safaga
+01037697854
+125.206512
+9.115801
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning
+premium,meetings,shared_space,private_office,internet
+192
+Urban Spot
+Hurghada
+Sakkala
+89 Main Street, Sakkala
+https://www.google.com/maps/search/?api=1&query=Urban+Spot+Sakkala
+01159838689
+333.695282
+9.485035
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+study,shared_space,budget_friendly,quiet,startups
+193
+Smart Coworking
+Hurghada
+Sakkala
+13 Main Street, Sakkala
+https://www.google.com/maps/search/?api=1&query=Smart+Coworking+Sakkala
+01281164100
+217.509460
+9.678593
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+shared_space,startups,study,private_office,internet
+194
+Global Workspace
+Hurghada
+Sakkala
+67 Main Street, Sakkala
+https://www.google.com/maps/search/?api=1&query=Global+Workspace+Sakkala
+01518965376
+301.567780
+7.378314
+Energetic space with background music and great coffee.
+High speed internet, comfortable chairs, air conditioning
+startups,shared_space,quiet,private_office,budget_friendly
+195
+Omni Coworking
+Hurghada
+El Gouna
+37 Main Street, El Gouna
+https://www.google.com/maps/search/?api=1&query=Omni+Coworking+El+Gouna
+01228246373
+104.941925
+8.134726
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+meetings,shared_space,startups,internet,cafe
+196
+Focus Station
+Hurghada
+Safaga
+88 Main Street, Safaga
+https://www.google.com/maps/search/?api=1&query=Focus+Station+Safaga
+01584183117
+366.147827
+8.729615
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,study,quiet,private_office,shared_space
+197
+Future Station
+Hurghada
+Safaga
+15 Main Street, Safaga
+https://www.google.com/maps/search/?api=1&query=Future+Station+Safaga
+01575099431
+411.733826
+7.586232
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+private_office,shared_space,study
+198
+Omni Workspace
+Hurghada
+Sakkala
+14 Main Street, Sakkala
+https://www.google.com/maps/search/?api=1&query=Omni+Workspace+Sakkala
+01384333749
+366.491974
+7.068950
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,private_office
+199
+Core Station
+Hurghada
+Sahl Hasheesh
+54 Main Street, Sahl Hasheesh
+https://www.google.com/maps/search/?api=1&query=Core+Station+Sahl+Hasheesh
+01211882874
+114.027802
+8.049527
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+study,budget_friendly,internet
+200
+Nexus Workspace
+Hurghada
+El Gouna
+35 Main Street, El Gouna
+https://www.google.com/maps/search/?api=1&query=Nexus+Workspace+El+Gouna
+01178510668
+120.954666
+7.995639
+An isolated, deep-focus environment without distractions.
+High speed internet, comfortable chairs, air conditioning
+meetings,budget_friendly
+201
+Nexus Workspace
+Hurghada
+El Dahar
+4 Main Street, El Dahar
+https://www.google.com/maps/search/?api=1&query=Nexus+Workspace+El+Dahar
+01028814410
+216.308578
+8.226891
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,shared_space,premium
+202
+Vibe Lounge
+Hurghada
+Safaga
+6 Main Street, Safaga
+https://www.google.com/maps/search/?api=1&query=Vibe+Lounge+Safaga
+01171760183
+267.377563
+7.200788
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+private_office,shared_space,cafe,study,budget_friendly
+203
+Mind Studio
+Hurghada
+Sahl Hasheesh
+20 Main Street, Sahl Hasheesh
+https://www.google.com/maps/search/?api=1&query=Mind+Studio+Sahl+Hasheesh
+01093062193
+402.974945
+8.111239
+Vibrant interior design full of art and inspiration.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+cafe,shared_space,quiet
+204
+Smart Workspace
+Hurghada
+Mamsha
+68 Main Street, Mamsha
+https://www.google.com/maps/search/?api=1&query=Smart+Workspace+Mamsha
+01046449487
+427.426758
+9.263142
+Premium seating, VIP lounges, and corporate utilities.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,meetings,startups,shared_space
+205
+Creative Lounge
+Hurghada
+Mamsha
+89 Main Street, Mamsha
+https://www.google.com/maps/search/?api=1&query=Creative+Lounge+Mamsha
+01535452073
+211.237320
+7.587729
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+private_office,premium,startups,shared_space,budget_friendly
+206
+Omni Space
+Hurghada
+Mamsha
+20 Main Street, Mamsha
+https://www.google.com/maps/search/?api=1&query=Omni+Space+Mamsha
+01576746900
+295.951477
+9.215651
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+shared_space,meetings,budget_friendly
+207
+Tech Studio
+Hurghada
+Safaga
+63 Main Street, Safaga
+https://www.google.com/maps/search/?api=1&query=Tech+Studio+Safaga
+01214531864
+180.153763
+7.593534
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning
+budget_friendly,private_office,study,internet
+208
+Vibe Workspace
+Hurghada
+El Dahar
+76 Main Street, El Dahar
+https://www.google.com/maps/search/?api=1&query=Vibe+Workspace+El+Dahar
+01475190811
+198.715347
+8.436310
+A fantastic environment optimized for creativity.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,quiet,premium,cafe,budget_friendly
+209
+Smart Spot
+Hurghada
+El Dahar
+45 Main Street, El Dahar
+https://www.google.com/maps/search/?api=1&query=Smart+Spot+El+Dahar
+01528899773
+137.858978
+8.885950
+Quiet and professional layout for long hours of work.
+High speed internet, comfortable chairs, air conditioning, coffee bar
+startups,internet,premium,meetings,cafe
+210
+Creative Station
+Hurghada
+Sahl Hasheesh
+99 Main Street, Sahl Hasheesh
+https://www.google.com/maps/search/?api=1&query=Creative+Station+Sahl+Hasheesh
+01292798159
+87.516281
+8.540457
+Very lively hub with a strong networking community.
+High speed internet, comfortable chairs, air conditioning
+study,quiet,shared_space,meetings
